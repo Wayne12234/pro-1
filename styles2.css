@@ -1,0 +1,35 @@
+img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+th{
+    font-weight: bolder;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+p{
+    font-weight: bolder;
+    color: white;
+    font-size: xx-large;
+    margin-left: 8%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#first{
+    background-color:maroon;
+    border: solid 10px white;
+}
+
+#y{
+    height: 600px;
+    width: 100%;  
+}
+
+#second{
+    background-color:lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+}
